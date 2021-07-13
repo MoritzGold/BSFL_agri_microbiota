@@ -1,0 +1,236 @@
+SampleID	run	experiment	waste	type	type_detail	waste_detail	Day	system	replicate	others	BSFL_detail	treatment_detail	Cluster	name
+MG001	2a	4	wine	residue				open	1	residue			1	WWP
+MG002	2a	4	wine	residue				open	2	residue			1	WWP
+MG003	2a	4	wine	residue				open	4	residue			1	WWP
+MG004	2a	4	wine	residue				closed	2	residue			2	WWP
+MG005	2a	4	wine	residue				closed	3	residue			2	WWP
+MG006	2a	4	wine	residue				closed	4	residue			2	WWP
+MG007	2a	5	wine	residue	sterile inoculant			closed	2		R	o	1	WWP
+MG008	2a	5	wine	residue	sterile inoculant			closed	3		R	o	1	WWP
+MG009	2a	5	wine	residue	sterile inoculant			closed	4		R	o	1	WWP
+MG010	2a	5	wine	residue	inoculant			closed	1		R	+	1	WWP
+MG011	2a	5	wine	residue	inoculant			closed	2		R	+	1	WWP
+MG012	2a	5	wine	residue	inoculant			closed	3		R	+	1	WWP
+MG013	2a	5	wine	residue	sterile inoculant			open	1		R	o	1	WWP
+MG014	2a	5	wine	residue	sterile inoculant			open	2		R	o	1	WWP
+MG015	2a	5	wine	residue	sterile inoculant			open	4		R	o	1	WWP
+MG016	2a	5	wine	residue	inoculant			open	1		R	+	1	WWP
+MG017	2a	5	wine	residue	inoculant			open	2		R	+	1	WWP
+MG018	2a	5	wine	residue	inoculant			open	4		R	+	1	WWP
+MG019	2a	5	tomato	residue	sterile inoculant			closed	1		R	o	2	TP
+MG020	2a	5	tomato	residue	sterile inoculant			closed	2		R	o	2	TP
+MG021	2a	5	tomato	residue	sterile inoculant			closed	3		R	o	2	TP
+MG022	2a	5	tomato	residue	inoculant			closed	1		R	+	2	TP
+MG023	2a	5	tomato	residue	inoculant			closed	2		R	+	2	TP
+MG024	2a	5	tomato	residue	inoculant			closed	3		R	+	2	TP
+MG025	2a	5	tomato	residue	treatment_foodwaste			closed	1		R	+	2	TP
+MG026	2a	5	tomato	residue	treatment_foodwaste			closed	2		R	+	2	TP
+MG027	2a	5	tomato	residue	treatment_foodwaste			closed	3		R	+	2	TP
+MG028	2a	5	tomato	residue	inoculant			open	1		R	+	2	TP
+MG029	2a	5	tomato	residue	inoculant			open	2		R	+	2	TP
+MG030	2a	5	tomato	residue	inoculant			open	3		R	+	2	TP
+MG031	2a	5	tomato	residue	treatment_foodwaste			open	1		R	+	2	TP
+MG032	2a	5	tomato	residue	treatment_foodwaste			open	2		R	+	2	TP
+MG033	2a	5	tomato	residue	treatment_foodwaste			open	3		R	+	2	TP
+MG034	2a	4	tomato	residue				closed	2	residue			3	TP
+MG035	2a	4	tomato	residue				closed	3	residue			3	TP
+MG036	2a	4	tomato	residue				closed	4	residue			3	TP
+MG037	2a	4	tomato	residue				open	1	residue			3	TP
+MG038	2a	4	tomato	residue				open	2	residue			3	TP
+MG039	2a	4	tomato	residue				open	4	residue			3	TP
+MG040	2a	4	foodwaste	residue				open	1	residue			4	DFW
+MG041	2a	4	foodwaste	residue				open	2	residue			4	DFW
+MG042	2a	4	foodwaste	residue				open	3	residue			4	DFW
+MG043	2a	4	foodwaste	residue				closed	1	residue			5	DFW
+MG044	2a	4	foodwaste	residue				closed	3	residue			5	DFW
+MG045	2a	4	foodwaste	residue				closed	4	residue			5	DFW
+MG046	2a	1	tomato	residue				closed	1	residue				TP
+MG047	2a	1	tomato	residue				closed	2	residue				TP
+MG048	2a	1	tomato	residue				closed	3	residue				TP
+MG049	2a	1	wine	residue				closed	1	residue				WWP
+MG050	2a	1	wine	residue				closed	2	residue				WWP
+MG051	2a	1	wine	residue				closed	3	residue				WWP
+MG052	2a		foodwaste	waste				open_closed	1	waste				DFW
+MG053	2a		foodwaste	waste				open_closed	2	waste				DFW
+MG054	2a		tomato	waste				open_closed	1	waste				TP
+MG055	2a		tomato	waste				open_closed	2	waste				TP
+MG056	2a		wine	waste				open_closed	1	waste				WWP
+MG057	2a		wine	waste				open_closed	2	waste				WWP
+MG058	2a	5	wine	inoculant				open	1	inoculant				WWP
+MG059	2a	5	wine	inoculant				closed	1	inoculant				WWP
+MG060	2a	3	fly	inoculant					1	inoculant				
+MG061	2a	3	wine	inoculant				closed	1	inoculant				WWP
+MG062	2a	3	tomato	inoculant				closed	1	inoculant				TP
+MG063	2a	5	tomato	inoculant				closed	1	inoculant				TP
+MG064	2a	5	foodwaste	inoculant				open	1	inoculant				DFW
+MG065	2a	4	tomato	larvae				open	1				2	TP
+MG066	2a	4	tomato	larvae				open	2				2	TP
+MG067	2a	4	tomato	larvae				open	3				2	TP
+MG068	2a	4	foodwaste	larvae				open	2				3	DFW
+MG069	2a	4	foodwaste	larvae				open	3				3	DFW
+MG070	2a	4	foodwaste	larvae				open	4				3	DFW
+MG071	2a	4	tomato	larvae				closed	2				2	TP
+MG072	2a	4	tomato	larvae				closed	3				2	TP
+MG073	2a	4	tomato	larvae				closed	4				2	TP
+MG074	2a	4	foodwaste	larvae				closed	1				4	DFW
+MG075	2a	4	foodwaste	larvae				closed	3				4	DFW
+MG076	2a	4	foodwaste	larvae				closed	4				4	DFW
+MG077	2a	5	tomato	larvae	sterile inoculant			closed	1		L	o	2	TP
+MG078	2a	5	tomato	larvae	sterile inoculant			closed	2		L	o	2	TP
+MG079	2a	5	tomato	larvae	sterile inoculant			closed	3		L	o	2	TP
+MG080	2a	5	tomato	larvae	inoculant			closed	1		L	+	2	TP
+MG081	2a	5	tomato	larvae	inoculant			closed	2		L	+	2	TP
+MG082	2a	5	tomato	larvae	inoculant			closed	3		L	+	2	TP
+MG083	2a	5	tomato	larvae	treatment_foodwaste			closed	1		L	+	2	TP
+MG084	2a	5	tomato	larvae	treatment_foodwaste			closed	2		L	+	2	TP
+MG085	2a	5	tomato	larvae	treatment_foodwaste			closed	3		L	+	2	TP
+MG086	2a	5	tomato	larvae	inoculant			open	1		L	+	2	TP
+MG087	2a	5	tomato	larvae	inoculant			open	2		L	+	2	TP
+MG088	2a	5	tomato	larvae	inoculant			open	3		L	+	2	TP
+MG089	2a	5	tomato	larvae	treatment_foodwaste			open	1		L	+	2	TP
+MG090	2a	5	tomato	larvae	treatment_foodwaste			open	2		L	+	2	TP
+MG091	2a	5	tomato	larvae	treatment_foodwaste			open	3		L	+	2	TP
+MG092	2a	4	wine	larvae				closed	1				1	WWP
+MG093	2a	4	wine	larvae				closed	2				1	WWP
+MG094	2a	4	wine	larvae				closed	3				1	WWP
+Blank1a	2a		blank	lib_prep_blank					1					
+Blank2a	2a		blank	lib_prep_blank					2					
+MG095	2a	4	wine	larvae				open	2				1	WWP
+MG096	2a	4	wine	larvae				open	3				1	WWP
+MG097	2a	4	wine	larvae				open	4				1	WWP
+MG098	2a	5	wine	larvae	sterile inoculant			closed	1		L	o	1	WWP
+MG099	2a	5	wine	larvae	sterile inoculant			closed	3		L	o	1	WWP
+MG100	2a	5	wine	larvae	sterile inoculant			closed	4		L	o	1	WWP
+MG101	2a	5	wine	larvae	inoculant			closed	2		L	+	1	WWP
+MG102	2a	5	wine	larvae	inoculant			closed	3		L	+	1	WWP
+MG103	2a	5	wine	larvae	inoculant			closed	4		L	+	1	WWP
+MG104	2a	5	wine	larvae	sterile inoculant			open	1		L	o	1	WWP
+MG105	2a	5	wine	larvae	sterile inoculant			open	2		L	o	1	WWP
+MG106	2a	5	wine	larvae	sterile inoculant			open	3		L	o	1	WWP
+MG107	2a	5	wine	larvae	inoculant			open	1		L	+	1	WWP
+MG108	2a	5	wine	larvae	inoculant			open	3		L	+	1	WWP
+MG109	2a	5	wine	larvae	inoculant			open	4		L	+	1	WWP
+MG110	2a	5	5DOL	5DOL					1	5DOL				
+MG111	2a	4	5DOL	5DOL					2	5DOL				
+KitBlank	2a		blank	extraction_blank					1					
+MG004-redo	2b	4	wine	residue				closed	2	residue			2	WWP
+MG010-redo	2b	5	wine	residue	sterile inoculant			closed	1		R	o	1	WWP
+MG056-redo	2b		wine	residue					1					WWP
+MG057-redo	2b		wine	residue					2					WWP
+MG095-redo	2b	4	wine	larvae				open	2				1	WWP
+MG096-redo	2b	4	wine	larvae				open	3				1	WWP
+MG097-redo	2b	4	wine	larvae				open	4				1	WWP
+MG111-redo	2b	4	5DOL	5DOL					2	5DOL				
+ZymoMock319F-1	2a		mock	Mock319					1					
+ZymoMock319F-2	2a		mock	Mock319					2					
+ZymoMock319F-3	2a		mock	Mock319					3					
+ZymoMock341F-1	2a		mock	Mock341					1					
+ZymoMock341F-2	2a		mock	Mock341					2					
+ZymoMock341F-3	2a		mock	Mock341					3					
+0CR1	1		C	waste	waste	CW	0		1	Canteen waste	with BSFL			
+0CRR	1		CF	poulty_feed_residue	poulty_feed_residue		0		1					
+0HR1	1		H	waste	waste	HW	0		1	Household waste	with BSFL			
+0L3	1		initital_larvae	larvae	initital_larvae	L0	0		2					
+0SR1	1		S	waste	waste	S-CW	0		1	Sterile canteen waste	with BSFL			
+12CL1	1		C	larvae	larvae	CW	12		1	Canteen waste				
+12CL2	1		C	larvae	larvae	CW	12		2	Canteen waste				
+12CL3	1		C	larvae	larvae	CW	12		3	Canteen waste				
+12CL4g	1		C	larvae	larvae	CW	12		4	Canteen waste				
+12CL4	1		C	larvae	larvae	CW	12		4	Canteen waste				
+12CO1	1		C	residue	No_larvae	CW-0	12		1	Canteen waste	without BSFL			
+12CO3	1		C	residue	No_larvae	CW-0	12		2	Canteen waste	without BSFL			
+12CR1	1		C	residue	residue	CW	12		1	Canteen waste	with BSFL			
+12CR2	1		C	residue	residue	CW	12		2	Canteen waste	with BSFL			
+12CR3	1		C	residue	residue	CW	12		3	Canteen waste	with BSFL			
+12CR4	1		C	residue	residue	CW	12		4	Canteen waste	with BSFL			
+12H01	1		H	residue	No_larvae	HW-0	12		1	Household waste	without BSFL			
+12HL1	1		H	larvae	larvae	HW	12		1	Household waste				
+12HL2	1		H	larvae	larvae	HW	12		2	Household waste				
+12HL3g	1		H	larvae	larvae	HW	12		3	Household waste				
+12HL3-strich	1		H	larvae	larvae	HW	12		3	Household waste				
+12HR1	1		H	residue	residue	HW	12		1	Household waste	with BSFL			
+12HR2	1		H	residue	residue	HW	12		2	Household waste	with BSFL			
+12HR3	1		H	residue	residue	HW	12		3	Household waste	with BSFL			
+12S02	1		S	residue	No_larvae	S-CW-0	12		2	Sterile canteen waste	without BSFL			
+12SL1	1		S	larvae	larvae	S-CW	12		1	Sterile canteen waste				
+12SL3	1		S	larvae	larvae	S-CW	12		3	Sterile canteen waste				
+12SO1	1		S	residue	No_larvae	S-CW-0	12		1	Sterile canteen waste	without BSFL			
+12SO3	1		S	residue	No_larvae	S-CW-0	12		3	Sterile canteen waste	without BSFL			
+12SR1	1		S	residue	residue	S-CW	12		1	Sterile canteen waste	with BSFL			
+12SR3	1		S	residue	residue	S-CW	12		3	Sterile canteen waste	with BSFL			
+3CL1	1		C	larvae	larvae	CW	3		1	Canteen waste				
+3CL2	1		C	larvae	larvae	CW	3		2	Canteen waste				
+3CL3	1		C	larvae	larvae	CW	3		3	Canteen waste				
+3CR1	1		C	residue	residue	CW	3		1	Canteen waste	with BSFL			
+3CR2	1		C	residue	residue	CW	3		2	Canteen waste	with BSFL			
+3CR3	1		C	residue	residue	CW	3		3	Canteen waste	with BSFL			
+3HL1	1		H	larvae	larvae	HW	3		1	Household waste				
+3HL2	1		H	larvae	larvae	HW	3		2	Household waste				
+3HR1	1		H	residue	residue	HW	3		1	Household waste	with BSFL			
+3HR2	1		H	residue	residue	HW	3		2	Household waste	with BSFL			
+3SL1	1		S	larvae	larvae	S-CW	3		1	Sterile canteen waste				
+3SL2	1		S	larvae	larvae	S-CW	3		2	Sterile canteen waste				
+3SL3	1		S	larvae	larvae	S-CW	3		3	Sterile canteen waste				
+3SR1	1		S	residue	residue	S-CW	3		1	Sterile canteen waste	with BSFL			
+3SR2	1		S	residue	residue	S-CW	3		2	Sterile canteen waste	with BSFL			
+3SR3	1		S	residue	residue	S-CW	3		3	Sterile canteen waste	with BSFL			
+6CL1	1		C	larvae	larvae	CW	6		1	Canteen waste				
+6CL2	1		C	larvae	larvae	CW	6		2	Canteen waste				
+6CL3	1		C	larvae	larvae	CW	6		3	Canteen waste				
+6CR1	1		C	residue	residue	CW	6		1	Canteen waste	with BSFL			
+6CR2	1		C	residue	residue	CW	6		2	Canteen waste	with BSFL			
+6CR3	1		C	residue	residue	CW	6		3	Canteen waste	with BSFL			
+6HL1	1		H	larvae	larvae	HW	6		1	Household waste				
+6HL2	1		H	larvae	larvae	HW	6		2	Household waste				
+6HL3	1		H	larvae	larvae	HW	6		3	Household waste				
+6HR1	1		H	residue	residue	HW	6		1	Household waste	with BSFL			
+6HR2	1		H	residue	residue	HW	6		2	Household waste	with BSFL			
+6HR3	1		H	residue	residue	HW	6		3	Household waste	with BSFL			
+6SL1	1		S	larvae	larvae	S-CW	6		1	Sterile canteen waste				
+6SL2	1		S	larvae	larvae	S-CW	6		2	Sterile canteen waste				
+6SL3	1		S	larvae	larvae	S-CW	6		3	Sterile canteen waste				
+6SR1	1		S	residue	residue	S-CW	6		1	Sterile canteen waste	with BSFL			
+6SR2	1		S	residue	residue	S-CW	6		2	Sterile canteen waste	with BSFL			
+6SR3	1		S	residue	residue	S-CW	6		3	Sterile canteen waste	with BSFL			
+9CL1	1		C	larvae	larvae	CW	9		1	Canteen waste				
+9CL2	1		C	larvae	larvae	CW	9		2	Canteen waste				
+9CL3	1		C	larvae	larvae	CW	9		3	Canteen waste				
+9CR1	1		C	residue	residue	CW	9		1	Canteen waste	with BSFL			
+9CR2	1		C	residue	residue	CW	9		2	Canteen waste	with BSFL			
+9CR3	1		C	residue	residue	CW	9		3	Canteen waste	with BSFL			
+9HL1	1		H	larvae	larvae	HW	9		1	Household waste				
+9HL2	1		H	larvae	larvae	HW	9		2	Household waste				
+9HL3	1		H	larvae	larvae	HW	9		3	Household waste				
+9HR1	1		H	residue	residue	HW	9		1	Household waste	with BSFL			
+9HR2	1		H	residue	residue	HW	9		2	Household waste	with BSFL			
+9HR3	1		H	residue	residue	HW	9		3	Household waste	with BSFL			
+9SR3	1		S	residue	residue	S-CW	9		3	Sterile canteen waste	with BSFL			
+C-day-1	1		Control	control_DNA	control_DNA		NA		6					
+C-day-2a	1		Control	control_DNA	control_DNA		NA		3					
+C-day-2b	1		Control	control_DNA	control_DNA		NA		4					
+C-day-2c	1		Control	control_DNA	control_DNA		NA		5					
+C-day-3	1		Control	control_DNA	control_DNA		NA		2					
+C-day-4	1		Control	control_DNA	control_DNA		NA		1					
+CF	1		CF	residue	waste		0		1					
+Mock1-L	1		Mock1_GDC	Mock	Mock		NA		1					
+Mock1-R	1		Mock1_GDC	Mock	Mock		NA		2					
+NC01	1		Control	control_lib_prep	control_lib_prep_larvae		NA		1					
+NC02	1		Control	control_lib_prep	control_lib_prep_larvae		NA		2					
+NC03	1		Control	control_lib_prep	control_lib_prep_larvae		NA		3					
+NC04	1		Control	control_lib_prep	control_lib_prep_residue		NA		4					
+NC05	1		Control	control_lib_prep	control_lib_prep_residue		NA		5					
+NC06	1		Control	control_lib_prep	control_lib_prep_larvae		NA		6					
+NC07	1		Control	control_lib_prep	control_lib_prep_larvae		NA		7					
+NC08	1		Control	control_lib_prep	control_lib_prep_larvae		NA		8					
+NC09	1		Control	control_lib_prep	control_lib_prep_residue		NA		9					
+NC10	1		Control	control_lib_prep	control_lib_prep_residue		NA		10					
+NC11	1		Control	control_lib_prep	control_lib_prep_residue		NA		11					
+NC12	1		Control	control_lib_prep	control_lib_prep_larvae		NA		12					
+NC13	1		Control	control_lib_prep	control_lib_prep_larvae		NA		13					
+OL1	1		initital_larvae	larvae	initital_larvae	L0	0		1					
+12SL2	1		S	larvae	larvae				2					
+12SR2	1		S	residue	residue				2					
+9SL1	1		S	larvae	larvae				1					
+9SR1	1		S	residue	residue				1					
+9SL2	1		S	larvae	larvae				2					
+9SR2	1		S	residue	residue				2					
