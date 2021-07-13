@@ -1,0 +1,8 @@
+temperature labelling syntax to allow smooth importing
+
+experiment = Tprod, Wprod, Tinoc, Winoc
+waste = T, D, W (in Tinoc, D is the the type of inoculant)
+replicate = 1-4
+system = open/close
+type = control/treatment
+
